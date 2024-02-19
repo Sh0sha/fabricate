@@ -2,7 +2,7 @@
 ToFileFactory toFileFactory = new ToFileFactory();
 
 Client baseClient = new Client(baseFactory);
-baseClient.Log("Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет Привет ");
+baseClient.Log("salam");
 
 Client toFileClient = new Client(toFileFactory);
 toFileClient.Log("Хола");
